@@ -1,2 +1,2 @@
 # Maze-Solver
-An attempt to solve the maze parallelly
+An attempt to solve maze parallelly
